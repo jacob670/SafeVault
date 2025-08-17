@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+
+**/Properties/launchSettings.json
+aws-credentials/credentials.json
+
+*.user
+*.suo
